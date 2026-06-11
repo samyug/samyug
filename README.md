@@ -30,14 +30,16 @@
 
 <br>
 
-<p align="center">
-  <img src="https://github.com/samyug/samyug/blob/pacman-output/pacman-contribution-graph.svg?raw=true" alt="Pacman Contribution Graph">
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/samyug/samyug/pacman-output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/samyug/samyug/pacman-output/pacman-contribution-graph.svg">
+  <img src="https://raw.githubusercontent.com/samyug/samyug/pacman-output/pacman-contribution-graph.svg" alt="Pacman Contribution Graph">
+</picture>
 
 <h3 align="left">Connect With Me</h3>
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/">
+  <a href="https://www.linkedin.com/in/samyugya">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn" />
   </a>
 </div>
