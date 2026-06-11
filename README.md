@@ -47,5 +47,5 @@
 <br>
 
 <div align="center">
-  <img src="![visitors](https://visitor-badge.laobi.icu/badge?page_id=samyug.visitor-badge&left_text=visitors&format=true&logo=github)" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=samyug.samyug" />
 </div>
