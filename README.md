@@ -30,11 +30,6 @@
 
 <br>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/samyug/samyug/pacman-output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/samyug/samyug/pacman-output/pacman-contribution-graph.svg">
-  <img src="https://raw.githubusercontent.com/samyug/samyug/pacman-output/pacman-contribution-graph.svg" alt="Pacman Contribution Graph">
-</picture>
 
 <h3 align="left">Connect With Me</h3>
 
